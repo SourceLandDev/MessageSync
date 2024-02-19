@@ -1,0 +1,14 @@
+{
+  "message.server.start": "*服务器*\n已开启",
+  "message.server.stop": "*服务器*\n已关闭",
+  "message.tochat": "*{Name}*\n*\\|* {Message}",
+  "message.tochat.repeat": "*\\|* {Message}",
+  "message.connected": "*{Name}*\n加入了服务器\n当前在线*{Count}*人",
+  "message.disconnected": "*{Name}*\n退出了服务器\n当前在线*{Count}*人",
+  "message.commandfeedback": "*命令回传*\n{Result}",
+  "message.commandfeedback.notop": "权限不足",
+  "message.toserver": "{Name} {Time:HH':'mm}\n{Message}",
+  "message.toserver.reply": "{Name} {Time:HH':'mm} > {Reply}\n{Message}",
+  "message.type.unsupportedtype": "§o未支持的消息类型",
+  "bot.failed.messagesend": "消息发送失败：{Reason} 原文：{Message}"
+}
